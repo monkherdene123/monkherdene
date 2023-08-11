@@ -1,0 +1,15 @@
+h4 {
+  color: aqua;
+}
+h2 {
+  color: aqua;
+}
+
+* {
+  font-size: x-large;
+}
+body {
+  width: 100vw;
+  min-height: 100vh;
+  background-image: linear-gradient(red, yellow);
+}
